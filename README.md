@@ -43,7 +43,7 @@ The Algorithms are applied on the spam email dataset and assessed i.e. It provid
 </br>
 <h3><b>
 Further details on </br>
-1. Distribution of dataset (Disrtibuted in 65:35 ratio of training:testing) </br>
+1. Distribution of dataset (Distributed in 65:35 ratio of training:testing) </br>
 2. Details of output parameters</br>
 3. Usage and applications of Algorithms</br>
 can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
