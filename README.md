@@ -5,7 +5,12 @@ Supervised Machine Learning Algorithms used for <b>ENRON</b> spam Email dataset
 
 <h3>
 The algorithms used for this implementation are:</br>
-<b>1. Naive Bayes Algorithm </b>(Python implementation)
-<b>2. Perceptron Algorithm </b>(JAVA implementation)
-<b>3. C4.5 Algorithm </b>(JAVA implementation)
+<b>1. Naive Bayes Algorithm </b>(Python implementation)</br>
+<b>2. Perceptron Algorithm </b>(JAVA implementation)</br>
+<b>3. C4.5 Algorithm </b>(JAVA implementation)</br>
 </h3>
+</br>
+<h2>
+The dataset used is <b>ENRON</b> SPAM EMAIL DATASET (available online for free)</br>
+<u>Link</u>- <a href="http://www2.aueb.gr/users/ion/data/enron-spam/"/>
+</h2>
