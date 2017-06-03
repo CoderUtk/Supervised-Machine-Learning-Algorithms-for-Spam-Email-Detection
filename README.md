@@ -31,11 +31,11 @@ The Algorithms are applied on the spam email dataset and assessed i.e. It provid
 3. <b>nltk</b> library for Python <a href="http://www.nltk.org/install.html">Available Here</a></br>
 </p>
 </br>
-<p font size="20">
+<p font size="22"><b>
 Further details on </br>
 1. Distribution of dataset </br>
 2. Details of output parameters</br>
 3. Usage and applications of Algorithms</br>
 can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
-</p>
+</b></p>
 
