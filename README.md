@@ -25,10 +25,17 @@ The Algorithms are applied on the spam email dataset and assessed i.e. It provid
 5. F - measure</br>
 </p>
 <p font size="20">
-<b>Software Requirements:</b>
-1. JAVA library version - 8.0 (minimum)
-2. Python library version - 2.7 (minimum)
+<b>Software Requirements:</b></br>
+1. JAVA library version - 8.0 (minimum)</br>
+2. Python library version - 2.7 (minimum)</br>
 3. <b>nltk</b> library for Python <a href="http://www.nltk.org/install.html">Available Here</a></br>
 </p>
-
+</br>
+<p font size="20">
+Further details on </br>
+1. Distribution of dataset </br>
+2. Details of output parameters</br>
+3. Usage and applications of Algorithms</br>
+can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
+</p>
 
