@@ -33,12 +33,19 @@ The Algorithms are applied on the spam email dataset and assessed i.e. It provid
 </br>
 <h3><b>
 Further details on </br>
-1. Distribution of dataset </br>
+1. Distribution of dataset (Disrtibuted in 65:35 ratio of training:testing) </br>
 2. Details of output parameters</br>
 3. Usage and applications of Algorithms</br>
 can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
 </b></h3>
 
 </br></br>
+
+<h3>Implementation:</h3>
+<p font size="20">
+1. Extract the <b>dataset.zip</b> file into all 3 folders as <b>training</b> and <b>testing</b> folders.
+2. Run the code in respective compilers.
+</p>
+
 <h4>For any query or help feel free to raise an issue</br>
 
