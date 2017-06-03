@@ -43,7 +43,7 @@ can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
 
 <h3>Implementation:</h3>
 <p font size="20">
-1. Extract the <b>dataset.zip</b> file into all 3 folders as <b>training</b> and <b>testing</b> folders.
+1. Extract the <b>dataset.zip</b> file into all 3 folders as <b>training</b> and <b>testing</b> folders.</br>
 2. Run the code in respective compilers.
 </p>
 
