@@ -39,3 +39,6 @@ Further details on </br>
 can be found <a href="http://ijsart.com/Home/IssueDetail/8673">here</a>
 </b></h3>
 
+</br></br>
+<h4>For any query or help feel free to raise an issue</br>
+
